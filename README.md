@@ -31,7 +31,6 @@ This repository contains a list of papers, codes, and Frameworks are used to sol
 5. **Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction** `SIGIR2021` [[pdf]](xx) [[code]](xx)
 5. **FORM: Follow the Online Regularized Meta-Leader for Cold-Start Recommendation** `SIGIR2021` [[pdf]](xx) [[code]](xx)
 5. **Privileged Graph Distillation for Cold-start Recommendation** `SIGIR2021` [[pdf]](xx) [[code]](xx)
-5. **Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks** `SIGIR2021` [[pdf]](xx) [[code]](xx)
 5. **Cluster-Based Bandits: Fast Cold-Start for Recommender System New Users** `SIGIR2021` [[pdf]](xx) [[code]](xx)
 5. **Decoupling Representation and Regressor for Long-Tailed Information Cascade Prediction** `SIGIR2021` [[pdf]](xx) [[code]](xx)
 
